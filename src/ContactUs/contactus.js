@@ -9,7 +9,7 @@ const ContactUs = () => (
         <Honeypot />
         {success && <p>Thanks for contacting us!</p>}
         {error && (
-          <p>Sorryyyyyy, we could not reach our servers. Please try again later!!</p>
+          <p>Sorryyyyyy, we could not reach our servers. Please try again later!!!!!!!!!!!!!!</p>
         )}
         <div>
           <label htmlFor='name'>Name:</label>
